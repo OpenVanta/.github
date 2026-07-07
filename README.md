@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/OpenVanta.svg" alt="GrantGuard" width="100%" />
+</p>
+
 # OpenVanta Tooling
 
 Standard open-source software policies, tools, and approaches for the OpenVanta org: open source software from the team at [Vanta](https://www.vanta.com/).
