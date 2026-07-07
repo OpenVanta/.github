@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/OpenVanta.svg" alt="GrantGuard" width="100%" />
+  <img src="/OpenVanta.png" alt="OpenVanta" width="100%" />
 </p>
 
 # OpenVanta Tooling
