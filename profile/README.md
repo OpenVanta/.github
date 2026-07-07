@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/OpenVanta.png" alt="OpenVanta" width="100%" />
+</p>
+
 # Vanta Open Source
 
 Open source software from the team at [Vanta](https://www.vanta.com/).
